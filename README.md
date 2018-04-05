@@ -2,7 +2,7 @@
 
 ## Hardware
 
-![sketch](sketch.png "Full sketch")
+![sketch](schematics/sketch.png "Full sketch")
 
 ### Input
 **2 x HC-SR 04 ultra sonic range sensor**
